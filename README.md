@@ -6,7 +6,7 @@ This project is a Node app with SQLite database storing users and respective lin
 
 The registration page allows new users to create a unique account which can store their social media links. The LinkLibrary is comprised of the form to save links, including a title, URL and tag for each social media site. It also lists a previously saved links below for easy access. The LinkLibrary allows users to log out and sign back in if they would like.
 
-Alternatively, you can try accessing source code here https://glitch.com/edit/#!/polite-cyan-front, or the live site https://polite-cyan-front.glitch.me.
+Alternatively, you can access source code here https://glitch.com/edit/#!/polite-cyan-front, or the live site https://polite-cyan-front.glitch.me.
 
 \_Last updated: 31 Dec 2024
 
