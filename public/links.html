@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links Library</title>      
+    <a href="/logout" id="sign-out">Sign Out</a>
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <h1>LinkLibrary</h1>
+  
+    <!-- Link form-->
+    <form id="link-form">
+        <input type="text" id="link-title" placeholder="Enter link title" required>
+        <input type="text" id="link-url" placeholder="Enter link URL" required>
+        <input type="text" id="link-tag" placeholder="Enter tag">
+        <button type="submit">Save Link</button>
+    </form>
+  
+    <p>
+    Your Saved Links:
+    </p>  
+    <!-- Saved links -->
+    <div id="links-container"></div>
+    
+</body>
+</html>
